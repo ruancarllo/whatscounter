@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    "**/.dart_tool": true,
+    "**/pubspec.lock": true,
+    "**/.DS_Store": true
+  }
+}

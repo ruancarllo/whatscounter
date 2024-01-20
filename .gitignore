@@ -1,0 +1,12 @@
+# Dart related
+**/.dart_tool
+**/pubspec.lock
+
+# Trash files
+**/.DS_Store
+
+# Chat files
+**/chats
+
+# Output files
+**/output
